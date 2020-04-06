@@ -1,6 +1,6 @@
 # SC08A
  
-                         
+                         SC08A
                                                         
 SC08A is designed to control 8 independent standard RC (Remote Control) servo motors simultaneously in a single board. Each servo signal pin is able to generate servo pulses from 0.5 ms to 2.5 ms, which is greater than the range of most servos, further allows for servos to operate 180 degrees. SC08A comes with small size and different protocol compare to SC16A.Through serial communication, SC08A can be daisy chain in 2 boards to offer independent control over 16 RC servo motors simultaneously. The host of SC08A can either be a PC desktop/Laptop with USB to serial(UART) converter, or microcontroller with UART interface. 
  SPECIFICATIONS:  
